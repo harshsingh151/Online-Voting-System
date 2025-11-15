@@ -1,3 +1,5 @@
+package com.voting.dao;
+
 
 import com.voting.util.DBConnection;
 import java.sql.Connection;
